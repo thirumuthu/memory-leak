@@ -1,5 +1,5 @@
 import React from "react";
-import Search from "./components/Search";
+import Search from "./Search";
 import { BrowserRouter, Route , Link} from 'react-router-dom';
 import MaterialDatatable from "material-datatable";
 import MUIDataTable from "mui-datatables";
